@@ -186,6 +186,8 @@ details[open] summary:after{transform:rotate(45deg)}details p{padding:0 2rem 1.4
 footer:not(.site-footer){background:var(--sand);text-align:center;padding:3.5rem 0 2.2rem}
 footer:not(.site-footer) .logo{width:104px;height:104px;margin:0 auto 1rem}
 footer:not(.site-footer) p.serif{font-size:1.2rem;color:var(--mar);margin-bottom:1.5rem;line-height:1.2}
+footer:not(.site-footer) .simple-footer-social{display:flex;justify-content:center;gap:1.25rem;margin-top:1.5rem}
+footer:not(.site-footer) .simple-footer-social a{color:var(--mar);font:500 .9rem/1.4 var(--sans);text-decoration:underline;text-decoration-color:var(--gold);text-underline-offset:.25em}
 footer:not(.site-footer) small{display:block;margin-top:2rem;color:var(--tau);font-size:.75rem;letter-spacing:.1em}
 .site-footer{padding:3.5rem 0 2.2rem;background:var(--sand);color:var(--br);text-align:left}
 .site-footer .wrap{max-width:1240px;padding:0 clamp(1.25rem,4vw,3rem)}
