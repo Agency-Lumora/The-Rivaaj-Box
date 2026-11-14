@@ -307,3 +307,9 @@ details p{padding-bottom:.7rem!important}details p:last-of-type{padding-bottom:1
 @media(max-width:820px){.cg{width:94%}.cl{padding:4px}.cl figcaption{left:8px;bottom:8px;max-width:calc(100% - 16px);font-size:.5rem;padding:.2rem .4rem;letter-spacing:.1em}.c1{width:40%}.c2{width:30%;margin-left:-6%}.c3{width:40%;margin-left:-6%}}
 
 @media(max-width:820px){.cg{width:92%;padding:1.4rem 0 2rem}.cl{padding:4px}.cl img{aspect-ratio:3/4.1;object-fit:cover}.c1,.c2,.c3{width:48%}.c1{margin-left:0;transform:rotate(-4deg);z-index:1}.c2{margin-left:-24%;transform:rotate(2deg) translateY(-6%);z-index:2}.c3{margin-left:-24%;transform:rotate(-2deg) translateY(4%);z-index:3}.c1 img{object-position:60% 50%}.cl:hover{transform:none}}
+
+.p-ri1{background-image:url("images/roka-inside-1.jpg")}.p-ri2{background-image:url("images/roka-inside-2.jpg")}.p-ri3{background-image:url("images/roka-inside-3.jpg")}
+.p-hi1{background-image:url("images/haldi-inside-1.jpg")}.p-hi2{background-image:url("images/haldi-inside-2.jpg")}
+.p-si1{background-image:url("images/sagai-inside-1.jpg")}.p-si2{background-image:url("images/sagai-inside-2.jpg")}.p-si3{background-image:url("images/sagai-inside-3.jpg")}
+.p-ei1{background-image:url("images/entrance-inside-1.jpg")}.p-ei2{background-image:url("images/entrance-inside-2.jpg")}.p-ei3{background-image:url("images/entrance-inside-3.jpg")}
+.p-pn1{background-image:url("images/phera-1.jpg")}.p-pn2{background-image:url("images/phera-2.jpg")}.p-pn3{background-image:url("images/phera-3.jpg")}.p-pn4{background-image:url("images/phera-4.jpg")}
