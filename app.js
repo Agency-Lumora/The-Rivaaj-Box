@@ -1,5 +1,5 @@
 
-const WA="918860285457";
+const WA="917827985457";
 const PRICE_ON_REQUEST="Price on request";
 const K=[
 {id:"roka",n:"01",short:"Roka",name:"Roka Kit",sub:" Roka Ceremony Puja Samagri & Essentials",d:"The first formal step of two families coming together, with everything ready in one box.",img:"r2",pos:"center",sh:"arch",s:"r1",t:"",g:["r2","ri1","ri2","ri3"]},
